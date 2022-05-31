@@ -1,6 +1,6 @@
 const url = 'http://galaxyheavyblow.web.fc2.com/';
 const sheet = SpreadsheetApp.getActiveSheet();
-const recipient = 'mukai1211moo@yahoo.co.jp'; //送信先のメールアドレス
+const recipient = '任意のメールアドレス'; //送信先のメールアドレス
 const subject = 'ワンパンマンが更新されました';
  
 function myFunctionA1() {//A1セルを書き換える。トリガー：00:00~01:00
